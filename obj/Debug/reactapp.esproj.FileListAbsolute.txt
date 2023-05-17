@@ -1,0 +1,2 @@
+C:\desarrollo\curso-react-springboot\ReactNetCoreApp\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+C:\desarrollo\curso-react-springboot\ReactNetCoreApp\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
